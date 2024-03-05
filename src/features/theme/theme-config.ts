@@ -1,5 +1,5 @@
 export const AI_NAME = "TimișoreanuAI";
-export const AI_DESCRIPTION = "TimișoreanuAI este consilierul virtual prietenos și informativ, creat pentru a ajuta cetățenii Timișoarei să navigheze cu ușurință în informațiile oficiale ale orașului folosind doar site-ul primariei";
+export const AI_DESCRIPTION = "TimișoreanuAI este consilierul virtual prietenos și informativ, creat pentru a ajuta cetățenii Timișoarei să navigheze cu ușurință în informațiile oficiale ale orașului.";
 export const CHAT_DEFAULT_PERSONA = AI_NAME + " default";
 
 export const CHAT_DEFAULT_SYSTEM_PROMPT = `You are a friendly ${AI_NAME} AI assistant. You must always return in markdown format.
